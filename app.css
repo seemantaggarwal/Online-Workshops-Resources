@@ -1,0 +1,22 @@
+h1 {
+	color: rgba(0,200,100, 0.8);
+	/*border-color: purple;*/
+	/*border-width: 5px;*/
+	/*border-style: solid;*/
+	border: 2px solid rgb(255,100,80);
+}
+
+/*width
+	color
+	style*/
+
+h4 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+	/*background: url(http://www.graphicsbeam.com/wp-content/uploads/2013/03/Drawn-Wood-Grain-Texture-520x301.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/*/
+}

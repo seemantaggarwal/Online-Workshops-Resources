@@ -1,0 +1,21 @@
+Question links:
+Rod Cutting - https://www.geeksforgeeks.org/cutting-a-rod-dp-13/
+Min sum path triangle - https://www.interviewbit.com/problems/min-sum-path-in-triangle/
+Min path in a matrix - https://www.geeksforgeeks.org/min-cost-path-dp-6/
+LCS - https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+The other question was Fibonacci.
+
+fibonacci- 
+recursion - https://ide.codingblocks.com/s/258480
+DP - https://ide.codingblocks.com/s/258481 
+
+Rod Cutting - https://ide.codingblocks.com/s/258482
+
+Min path in a matrix - https://ide.codingblocks.com/s/258483
+
+LCS and Printing the LCS- https://ide.codingblocks.com/s/258485
+
+Other DP question videos - 
+https://www.youtube.com/watch?v=z8bTUEbHIUc&t=330s
+
+https://www.youtube.com/watch?v=PMm2lKdud_Q&t=248s
